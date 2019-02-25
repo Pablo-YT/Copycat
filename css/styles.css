@@ -1,0 +1,74 @@
+ul {
+    bottom: 84px;
+    right: 28px;
+    font-size: 23px;
+    list-style-type: none;
+ } 
+
+li {
+    float: right;
+    padding: 1%;
+    bottom: 67px;
+    position: relative;
+
+}
+
+
+li a {
+display: block;
+
+
+}
+
+h1.sitename{
+    position: relative;
+   left: 36px;
+   font-size: 22px;
+   padding: 12px 26px;
+    margin: -14px -45px;
+    height: 46px;
+    background-color: lightgreen;
+    line-height: 48px;
+}
+div.welcome{
+      float: right;
+    position: relative;
+    left: 46px;
+    font-size: 25px;
+    display: inline-block;
+}
+
+div.catimg{
+  position: relative;
+    right: 85px;
+    float: right;
+    top: 58px;
+}
+
+section.Cats{
+    
+    position: relative;
+    clear:both;
+    display: block;
+    padding: 11px 25%;
+    background-color: #FFD166;
+}
+
+section.Products{
+    clear: both;
+    display: block;
+    padding: 11px 25%;
+    background-color: grey;
+}
+
+section.about{
+  
+}
+
+
+
+
+
+
+
+}
